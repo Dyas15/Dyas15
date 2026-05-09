@@ -1,9 +1,9 @@
 ## Olá! Me chamo Diogo e estou atualmente estudando programação e fazendo alguns projetos.
 
 <div align="center">
-  <a href="https://github.com/dyas15">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dyas15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyas15&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
+  <a href="https://github.com/dyas15" target="_blank">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dyas15&theme=dracula" alt="Estatísticas do GitHub"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dyas15&theme=dracula" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
